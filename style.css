@@ -1,0 +1,42 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+}
+
+body {
+  background: radial-gradient(circle at top right, #1d4ed8 0%, #0f172a 45%, #020617 100%);
+  font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+}
+
+.glass {
+  background: rgba(15, 23, 42, 0.45);
+  backdrop-filter: blur(18px);
+  border: 1px solid rgba(148, 163, 184, 0.25);
+  box-shadow: 0 10px 25px rgba(2, 6, 23, 0.35);
+}
+
+.input-glass {
+  background: rgba(15, 23, 42, 0.55);
+  border: 1px solid rgba(148, 163, 184, 0.4);
+  border-radius: 0.75rem;
+  padding: 0.4rem 0.65rem;
+}
+
+.news-card {
+  @apply glass rounded-2xl p-4 flex flex-col gap-2 overflow-hidden;
+}
+
+.news-card h2 {
+  @apply font-semibold leading-snug text-slate-100;
+}
+
+.news-card p {
+  @apply text-sm text-slate-300 line-clamp-4;
+}
+
+.news-card a {
+  @apply text-xs text-sky-300 mt-auto;
+}

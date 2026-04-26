@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Automated multilingual Telugu news aggregator with AI rewritten headlines and summaries." />
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <title>Auto News Grid | Telugu AI News Aggregator</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="./style.css" />
+</head>
+<body class="min-h-screen text-slate-100">
+  <div class="max-w-7xl mx-auto px-4 py-8">
+    <header class="glass rounded-3xl p-5 md:p-8 mb-8 flex flex-col md:flex-row md:items-center md:justify-between gap-4">
+      <div>
+        <p class="text-xs uppercase tracking-wider text-sky-200">Live + AI Processed</p>
+        <h1 class="text-2xl md:text-4xl font-bold">Eenadu Smart News</h1>
+        <p class="text-slate-300 mt-2">Realtime Telugu RSS feeds translated and rewritten for SEO.</p>
+      </div>
+      <div class="flex items-center gap-3">
+        <label for="feed-select" class="text-sm">Feed:</label>
+        <select id="feed-select" class="input-glass">
+          <option value="latest">Latest</option>
+          <option value="andhra">Andhra</option>
+          <option value="telangana">Telangana</option>
+        </select>
+        <label for="language-select" class="text-sm">Language:</label>
+        <select id="language-select" class="input-glass">
+          <option value="te">తెలుగు</option>
+          <option value="en">English</option>
+          <option value="hi">हिन्दी</option>
+        </select>
+      </div>
+    </header>
+
+    <main>
+      <div id="status" class="text-sm text-sky-200 mb-4"></div>
+      <section id="news-grid" class="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-4 auto-rows-[180px] gap-4"></section>
+    </main>
+  </div>
+
+  <script type="application/ld+json" id="jsonld-container">{"@context":"https://schema.org","@graph":[]}</script>
+  <script src="./script.js"></script>
+</body>
+</html>
