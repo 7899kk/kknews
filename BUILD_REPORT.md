@@ -39,6 +39,6 @@ Final Gradle result: **BUILD SUCCESSFUL**, exit code 0, 133 tasks (31 executed, 
 ## Release status
 The unsigned AAB exists and compiled successfully. It is **not upload-ready** until signed with your own private upload key and validated through device/Play testing. No production signing key/password was generated or committed. No Play submission occurred. A debug-installed app cannot be updated by a differently signed production build: export a backup before switching installations.
 
-No destination Expiry Radar GitHub repository was found in the connected account; no repository write/push occurred. Source and a GitHub Actions workflow are provided.
+After authorization to choose any repository, the complete source was committed to the empty public `7899kk/kknews` repository. The subsequent successful GitHub Actions build published a tested debug APK; see EMULATOR_REPORT.md for the new artifact hash and emulator evidence. Artifact sizes and hashes above describe the initial local build.
 
 Physical-device testing, real Play screenshots, a public privacy-policy URL, actual support contact and Console declarations remain publisher tasks. See PLAY_RELEASE.md and TEST_REPORT.md.

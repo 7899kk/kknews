@@ -1,5 +1,9 @@
 # Expiry Radar
 
+[Download the tested debug APK](https://github.com/7899kk/kknews/releases/download/expiry-radar-preview-3/ExpiryRadar-debug.apk) · [Android screenshots and test reports](https://github.com/7899kk/kknews/releases/download/expiry-radar-preview-3/ExpiryRadar-Android-preview.zip)
+
+Tested on temporary Android 9 and Android 16 emulators. 51 host tests and 9 instrumented tests on each emulator passed. See [EMULATOR_REPORT.md](EMULATOR_REPORT.md).
+
 **Track it today. Save it before it expires.**
 
 Original native Android application, written in Kotlin and Jetpack Compose. It runs on Android 9+ and stores data locally in Room. It has no login, ads, subscription, backend or internet permission.
@@ -48,4 +52,4 @@ Read the build/test reports before distributing. A successful build is not proof
 
 Version 1 has no prior production schema to migrate. Its Room schema is exported; future versions must add explicit migrations and tests rather than destructive fallback. Static UI copy is in English string resources; some composed status/validation text remains English and must be localized along with categories when adding Hindi/Telugu. English is the only supported language in this build.
 
-Your GitHub account is connected, but no Expiry Radar repository was found and no destination repository was specified, so nothing was pushed to your account. The included GitHub Actions workflow is ready to run after you upload the project. Signing, real Play screenshots and Console submission remain publisher tasks. See PLAY_RELEASE.md.
+The complete project is committed to `7899kk/kknews`. GitHub Actions builds it, runs host checks and temporary Android 9/16 emulator tests, checks the installed app, and publishes a debug APK with preview evidence when those checks pass. Production signing, physical-phone validation and Play Console submission remain publisher tasks. See PLAY_RELEASE.md.
