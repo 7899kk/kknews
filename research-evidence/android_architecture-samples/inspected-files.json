@@ -1,0 +1,37 @@
+[
+  {
+    "path": "README.md",
+    "sha256": "682b1d5bf9b74c3d8c56f8dc3bfe7327aa05cc7191220802cc6ecb1766e9f73f",
+    "bytes": 3564
+  },
+  {
+    "path": "gradle/libs.versions.toml",
+    "sha256": "70bebecfce9e75d8b71d07918d553b3ce8637d74392ef781e216879ef7464339",
+    "bytes": 10798
+  },
+  {
+    "path": "app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/DefaultTaskRepository.kt",
+    "sha256": "8e03787673ec5f060f0071a43712e7b3156a9e6b16ac954840f8c05807fa8fbc",
+    "bytes": 6888
+  },
+  {
+    "path": "app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/source/local/ToDoDatabase.kt",
+    "sha256": "0048f7e14029a5c6f6a38c33ec567143cac0a70227718c98dfe551f34392d1b8",
+    "bytes": 1051
+  },
+  {
+    "path": "app/build.gradle.kts",
+    "sha256": "f97c61d9f8ebc48c4a4ce6327d974c61a6338a2e8481ce43a68901f9d2d23e70",
+    "bytes": 7411
+  },
+  {
+    "path": "app/src/main/java/com/example/android/architecture/blueprints/todoapp/TodoTheme.kt",
+    "sha256": "29d17b1d85d7a7fea7a6012c9534f0389782bfc93c9f48eb15bd694a2fadc8ef",
+    "bytes": 536
+  },
+  {
+    "path": "LICENSE",
+    "sha256": "8515133bdb16915542581da1bce6e1344883d811b05f3bd159152e20b8825259",
+    "bytes": 11361
+  }
+]

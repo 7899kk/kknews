@@ -1,0 +1,55 @@
+{
+  "sha": "fae4ad798564ea9ad494eaf037dca0e745400723",
+  "url": "https://api.github.com/repos/PhilJay/MPAndroidChart/git/trees/fae4ad798564ea9ad494eaf037dca0e745400723",
+  "tree": [
+    {
+      "path": "LICENSE",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d645695673349e3947e8e5ae42332d0ac3164cd7",
+      "size": 11358,
+      "url": "https://api.github.com/repos/PhilJay/MPAndroidChart/git/blobs/d645695673349e3947e8e5ae42332d0ac3164cd7"
+    },
+    {
+      "path": "MPChartCompose/build.gradle.kts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d47f22862e1493003ea0ca9c5a7f01d98aa24723",
+      "size": 2974,
+      "url": "https://api.github.com/repos/PhilJay/MPAndroidChart/git/blobs/d47f22862e1493003ea0ca9c5a7f01d98aa24723"
+    },
+    {
+      "path": "MPChartLib/src/main/kotlin/com/github/mikephil/charting/charts/PieChart.kt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fb568a5737b973747a128e49d25491baa0e0e2ea",
+      "size": 14358,
+      "url": "https://api.github.com/repos/PhilJay/MPAndroidChart/git/blobs/fb568a5737b973747a128e49d25491baa0e0e2ea"
+    },
+    {
+      "path": "MPChartLib/src/main/kotlin/com/github/mikephil/charting/renderer/BarChartRenderer.kt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a5e32e6e14631afad8d092a08c7e55167bd6c2e1",
+      "size": 22866,
+      "url": "https://api.github.com/repos/PhilJay/MPAndroidChart/git/blobs/a5e32e6e14631afad8d092a08c7e55167bd6c2e1"
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a7465ad91c8d53a53175d1a3bb2bbd383115a589",
+      "size": 6705,
+      "url": "https://api.github.com/repos/PhilJay/MPAndroidChart/git/blobs/a7465ad91c8d53a53175d1a3bb2bbd383115a589"
+    },
+    {
+      "path": "gradle/libs.versions.toml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4fc6ad30a9bb1714162a2638d7945f516a89694a",
+      "size": 2235,
+      "url": "https://api.github.com/repos/PhilJay/MPAndroidChart/git/blobs/4fc6ad30a9bb1714162a2638d7945f516a89694a"
+    }
+  ],
+  "truncated": false
+}

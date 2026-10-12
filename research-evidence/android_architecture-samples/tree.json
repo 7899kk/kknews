@@ -1,0 +1,63 @@
+{
+  "sha": "ee66e1526b84c026615df032c705842b7d2a521f",
+  "url": "https://api.github.com/repos/android/architecture-samples/git/trees/ee66e1526b84c026615df032c705842b7d2a521f",
+  "tree": [
+    {
+      "path": "LICENSE",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1af981f55f0be23674d5cb4b2826bf9e3b933b31",
+      "size": 11361,
+      "url": "https://api.github.com/repos/android/architecture-samples/git/blobs/1af981f55f0be23674d5cb4b2826bf9e3b933b31"
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "02ec4bd904698cda88203bf4fb352733499601b3",
+      "size": 3564,
+      "url": "https://api.github.com/repos/android/architecture-samples/git/blobs/02ec4bd904698cda88203bf4fb352733499601b3"
+    },
+    {
+      "path": "app/build.gradle.kts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "64ede2fbb8da76856b6bd391e46c10313aff8a0a",
+      "size": 7411,
+      "url": "https://api.github.com/repos/android/architecture-samples/git/blobs/64ede2fbb8da76856b6bd391e46c10313aff8a0a"
+    },
+    {
+      "path": "app/src/main/java/com/example/android/architecture/blueprints/todoapp/TodoTheme.kt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e461d959ad75008a46d8b97b52362dc3b61ade8b",
+      "size": 536,
+      "url": "https://api.github.com/repos/android/architecture-samples/git/blobs/e461d959ad75008a46d8b97b52362dc3b61ade8b"
+    },
+    {
+      "path": "app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/DefaultTaskRepository.kt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7d61755a656ae1d366662c50bc2eceb6b2783100",
+      "size": 6888,
+      "url": "https://api.github.com/repos/android/architecture-samples/git/blobs/7d61755a656ae1d366662c50bc2eceb6b2783100"
+    },
+    {
+      "path": "app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/source/local/ToDoDatabase.kt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4f4386af2953339fd7affd72c3d672dfdc5bc5a3",
+      "size": 1051,
+      "url": "https://api.github.com/repos/android/architecture-samples/git/blobs/4f4386af2953339fd7affd72c3d672dfdc5bc5a3"
+    },
+    {
+      "path": "gradle/libs.versions.toml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "af9da79dd7e6619c0e65c1fd140c3093e3d5dcac",
+      "size": 10798,
+      "url": "https://api.github.com/repos/android/architecture-samples/git/blobs/af9da79dd7e6619c0e65c1fd140c3093e3d5dcac"
+    }
+  ],
+  "truncated": false
+}

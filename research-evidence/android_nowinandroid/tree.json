@@ -1,0 +1,71 @@
+{
+  "sha": "a49ed253d75e61a2b6ab80a8da677b57437b08eb",
+  "url": "https://api.github.com/repos/android/nowinandroid/git/trees/a49ed253d75e61a2b6ab80a8da677b57437b08eb",
+  "tree": [
+    {
+      "path": "LICENSE",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d645695673349e3947e8e5ae42332d0ac3164cd7",
+      "size": 11358,
+      "url": "https://api.github.com/repos/android/nowinandroid/git/blobs/d645695673349e3947e8e5ae42332d0ac3164cd7"
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7f7613a0d4b43ce43ad6bd5be31f73e540277f6b",
+      "size": 10998,
+      "url": "https://api.github.com/repos/android/nowinandroid/git/blobs/7f7613a0d4b43ce43ad6bd5be31f73e540277f6b"
+    },
+    {
+      "path": "app-nia-catalog/build.gradle.kts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "94d55b81cf8bd5a05ee4be0c9183bd167442e3ef",
+      "size": 2752,
+      "url": "https://api.github.com/repos/android/nowinandroid/git/blobs/94d55b81cf8bd5a05ee4be0c9183bd167442e3ef"
+    },
+    {
+      "path": "core/data-test/src/main/kotlin/com/google/samples/apps/nowinandroid/core/data/test/repository/FakeNewsRepository.kt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "167f9e6203c49b3666bf3d8a52fb6cd0e9a7a14c",
+      "size": 3121,
+      "url": "https://api.github.com/repos/android/nowinandroid/git/blobs/167f9e6203c49b3666bf3d8a52fb6cd0e9a7a14c"
+    },
+    {
+      "path": "core/database/src/main/kotlin/com/google/samples/apps/nowinandroid/core/database/NiaDatabase.kt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "87fd82af11940f5ad0a16cf06a629d1e8a5be400",
+      "size": 3146,
+      "url": "https://api.github.com/repos/android/nowinandroid/git/blobs/87fd82af11940f5ad0a16cf06a629d1e8a5be400"
+    },
+    {
+      "path": "core/designsystem/src/main/kotlin/com/google/samples/apps/nowinandroid/core/designsystem/theme/Theme.kt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "582f884734a40945cc8301934d91ee663e1124ae",
+      "size": 8092,
+      "url": "https://api.github.com/repos/android/nowinandroid/git/blobs/582f884734a40945cc8301934d91ee663e1124ae"
+    },
+    {
+      "path": "gradle/libs.versions.toml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "21f0de8d4b7bf0f034a3a45c8d2acf1497c3c399",
+      "size": 16522,
+      "url": "https://api.github.com/repos/android/nowinandroid/git/blobs/21f0de8d4b7bf0f034a3a45c8d2acf1497c3c399"
+    },
+    {
+      "path": "sync/work/src/main/kotlin/com/google/samples/apps/nowinandroid/sync/workers/DelegatingWorker.kt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0114ad6ece408c4f829a2abaa4b4fb6ab7638b63",
+      "size": 2828,
+      "url": "https://api.github.com/repos/android/nowinandroid/git/blobs/0114ad6ece408c4f829a2abaa4b4fb6ab7638b63"
+    }
+  ],
+  "truncated": false
+}

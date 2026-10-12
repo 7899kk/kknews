@@ -1,0 +1,47 @@
+[
+  {
+    "path": "LICENSE.txt",
+    "sha256": "809fa1ed21450f59827d1e9aec720bbc4b687434fa22283c6cb5dd82a47ab9c0",
+    "bytes": 10175
+  },
+  {
+    "path": "README.md",
+    "sha256": "6060a649a89a0e3192dc76a95d7eb47769eac066ef6936e41be4996c56d20d29",
+    "bytes": 3735
+  },
+  {
+    "path": "compose/material3/material3/src/commonMain/kotlin/androidx/compose/material3/DatePicker.kt",
+    "sha256": "6d80d7ba27b052beaac1628458dc41621e02093d36c5d2691234d0931ca3ea22",
+    "bytes": 118772
+  },
+  {
+    "path": "core/core/src/main/java/androidx/core/database/sqlite/SQLiteDatabase.kt",
+    "sha256": "ea16fb8e30b4cb34c08e7270b9d84480656130e62dd820f96b0735a8a258b7b0",
+    "bytes": 1403
+  },
+  {
+    "path": "development/ab-benchmarking/app/build.gradle.kts",
+    "sha256": "6e2df2a8d464d877f66a2980c60783a3a744c8bfa2fdb9a54960f4260b91b12b",
+    "bytes": 3018
+  },
+  {
+    "path": "biometric/biometric/src/main/java/androidx/biometric/internal/data/AuthenticationStateRepository.kt",
+    "sha256": "b91cd756c7ea866dd089a900a6ab3d879fadd3702171f034fa5c2a00e7f7efc7",
+    "bytes": 7515
+  },
+  {
+    "path": "camera/integration-tests/featurecombotestapp/src/main/java/androidx/camera/integration/featurecombo/ui/theme/Theme.kt",
+    "sha256": "81fd7b8232fae3f285b1cb15cf885a66a59dc208fad4b7b2c5f6438b30a98785",
+    "bytes": 3578
+  },
+  {
+    "path": "car/app/app-samples/gradle/libs.versions.toml",
+    "sha256": "92431d1fb2972704d452a089303383206518a924345fdb66dd10cea4168e46ec",
+    "bytes": 1352
+  },
+  {
+    "path": "benchmark/integration-tests/macrobenchmark-target/src/main/java/androidx/benchmark/integration/macrobenchmark/target/NoOpWorker.kt",
+    "sha256": "0f7a51e236288a63ecb35080841f3682b6dd6bcd5c5527ee20b212806dd9ded6",
+    "bytes": 1087
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "path": "README.md",
+    "sha256": "731881b0b9ba21aa5e738ea67cd2020748c1751bc9dedf55c4ce9884b3752782",
+    "bytes": 9802
+  },
+  {
+    "path": "lib/domain/services/notification_service.dart",
+    "sha256": "7bb261169bf7477c8988ea0ee80dad39c1bc1b6642742d4e517e9ef43d4f2d91",
+    "bytes": 6800
+  },
+  {
+    "path": "lib/data/database/database.dart",
+    "sha256": "a1f56e19ad454503df28739239a4df93f4f67328e24f67aa01c90205c49ea283",
+    "bytes": 1906
+  },
+  {
+    "path": "lib/data/database/tables.dart",
+    "sha256": "f4487c7425230f20da12a3c5beb0b98171c610109f17b2268371e43f4fb787fc",
+    "bytes": 3046
+  },
+  {
+    "path": "pubspec.yaml",
+    "sha256": "0c3cc1300540f9bba6238cd72cfd90d1dd5d8cad30acb56ea8b90fbcc6c135f3",
+    "bytes": 1978
+  },
+  {
+    "path": "android/app/build.gradle.kts",
+    "sha256": "cafa1ea6277c22e12acb56ca3e0e897420763ad63fdc0fe220b2875f7d0275be",
+    "bytes": 3303
+  },
+  {
+    "path": "LICENSE",
+    "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+    "bytes": 35149
+  }
+]

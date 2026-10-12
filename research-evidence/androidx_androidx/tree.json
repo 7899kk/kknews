@@ -1,0 +1,79 @@
+{
+  "sha": "034d37ae95b7db8560e520c0366696af56a37b96",
+  "url": "https://api.github.com/repos/androidx/androidx/git/trees/034d37ae95b7db8560e520c0366696af56a37b96",
+  "tree": [
+    {
+      "path": "LICENSE.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e454a52586f29b8ce8a6799163eac1f875e9ac01",
+      "size": 10175,
+      "url": "https://api.github.com/repos/androidx/androidx/git/blobs/e454a52586f29b8ce8a6799163eac1f875e9ac01"
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "121175d343ed62eee51b0d9e020b5a29a891a2ca",
+      "size": 3735,
+      "url": "https://api.github.com/repos/androidx/androidx/git/blobs/121175d343ed62eee51b0d9e020b5a29a891a2ca"
+    },
+    {
+      "path": "benchmark/integration-tests/macrobenchmark-target/src/main/java/androidx/benchmark/integration/macrobenchmark/target/NoOpWorker.kt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6a7bf51d9581f1de623db01d4020d7e9391f11b6",
+      "size": 1087,
+      "url": "https://api.github.com/repos/androidx/androidx/git/blobs/6a7bf51d9581f1de623db01d4020d7e9391f11b6"
+    },
+    {
+      "path": "biometric/biometric/src/main/java/androidx/biometric/internal/data/AuthenticationStateRepository.kt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "aebd4f3b93f6da5b52bbf72d6fa40b981857857a",
+      "size": 7515,
+      "url": "https://api.github.com/repos/androidx/androidx/git/blobs/aebd4f3b93f6da5b52bbf72d6fa40b981857857a"
+    },
+    {
+      "path": "camera/integration-tests/featurecombotestapp/src/main/java/androidx/camera/integration/featurecombo/ui/theme/Theme.kt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f56b2c160f176730318d2d80abd76d23481feba7",
+      "size": 3578,
+      "url": "https://api.github.com/repos/androidx/androidx/git/blobs/f56b2c160f176730318d2d80abd76d23481feba7"
+    },
+    {
+      "path": "car/app/app-samples/gradle/libs.versions.toml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "30899c4643de2db9db4777d1dbd6aa4b6ff16445",
+      "size": 1352,
+      "url": "https://api.github.com/repos/androidx/androidx/git/blobs/30899c4643de2db9db4777d1dbd6aa4b6ff16445"
+    },
+    {
+      "path": "compose/material3/material3/src/commonMain/kotlin/androidx/compose/material3/DatePicker.kt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "269ea8857f62082319c63b20825efa305121ea76",
+      "size": 118772,
+      "url": "https://api.github.com/repos/androidx/androidx/git/blobs/269ea8857f62082319c63b20825efa305121ea76"
+    },
+    {
+      "path": "core/core/src/main/java/androidx/core/database/sqlite/SQLiteDatabase.kt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "75f2364e56f58dd9e45e1b1c2f4e546509262c67",
+      "size": 1403,
+      "url": "https://api.github.com/repos/androidx/androidx/git/blobs/75f2364e56f58dd9e45e1b1c2f4e546509262c67"
+    },
+    {
+      "path": "development/ab-benchmarking/app/build.gradle.kts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ea510e5602799f4f2784907c7a98065924e99ed3",
+      "size": 3018,
+      "url": "https://api.github.com/repos/androidx/androidx/git/blobs/ea510e5602799f4f2784907c7a98065924e99ed3"
+    }
+  ],
+  "truncated": true
+}

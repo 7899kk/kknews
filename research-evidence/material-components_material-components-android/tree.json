@@ -1,0 +1,39 @@
+{
+  "sha": "60ff09436d5d477a4b9d02940f31eb01e1250620",
+  "url": "https://api.github.com/repos/material-components/material-components-android/git/trees/60ff09436d5d477a4b9d02940f31eb01e1250620",
+  "tree": [
+    {
+      "path": "LICENSE",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d645695673349e3947e8e5ae42332d0ac3164cd7",
+      "size": 11358,
+      "url": "https://api.github.com/repos/material-components/material-components-android/git/blobs/d645695673349e3947e8e5ae42332d0ac3164cd7"
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "25897a2861a3f3ef297f89c61636624e418a72a7",
+      "size": 3447,
+      "url": "https://api.github.com/repos/material-components/material-components-android/git/blobs/25897a2861a3f3ef297f89c61636624e418a72a7"
+    },
+    {
+      "path": "gradle/libs.versions.toml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2045e15d000bfc590cc7762869548a21fd35fe36",
+      "size": 8200,
+      "url": "https://api.github.com/repos/material-components/material-components-android/git/blobs/2045e15d000bfc590cc7762869548a21fd35fe36"
+    },
+    {
+      "path": "lib/java/com/google/android/material/datepicker/MaterialDatePicker.java",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9f48d1a0800fb907b6436060a881a5c214cd0ce4",
+      "size": 39639,
+      "url": "https://api.github.com/repos/material-components/material-components-android/git/blobs/9f48d1a0800fb907b6436060a881a5c214cd0ce4"
+    }
+  ],
+  "truncated": false
+}

@@ -1,0 +1,77 @@
+<resources>
+    <string name="ui_category_distribution" formatted="false">"Category distribution"</string>
+    <string name="ui_monthly_expiries" formatted="false">"Monthly expiries"</string>
+    <string name="ui_most_discarded_categories" formatted="false">"Most discarded categories"</string>
+    <string name="ui_usage_history" formatted="false">"Usage history"</string>
+    <string name="ui_no_items_marked_used_yet" formatted="false">"No items marked used yet."</string>
+    <string name="ui_confirm" formatted="false">"Confirm"</string>
+    <string name="ui_cancel" formatted="false">"Cancel"</string>
+    <string name="ui_go" formatted="false">"Go"</string>
+    <string name="ui_product_name" formatted="false">"Product name *"</string>
+    <string name="ui_quantity" formatted="false">"Quantity *"</string>
+    <string name="ui_custom_unit" formatted="false">"Custom unit"</string>
+    <string name="ui_storage_location" formatted="false">"Storage location"</string>
+    <string name="ui_add_image" formatted="false">"Add image"</string>
+    <string name="ui_remove" formatted="false">"Remove"</string>
+    <string name="ui_barcode" formatted="false">"Barcode"</string>
+    <string name="ui_scan_barcode" formatted="false">"Scan barcode"</string>
+    <string name="ui_optional_purchase_price" formatted="false">"Optional purchase price (₹)"</string>
+    <string name="ui_notes" formatted="false">"Notes"</string>
+    <string name="ui_reminders" formatted="false">"Reminders"</string>
+    <string name="ui_days_before_expiry_separated_by_commas" formatted="false">"Days before expiry, separated by commas"</string>
+    <string name="ui_examples_30_14_7_3_1_0_leave_empty_for_no_reminders" formatted="false">"Examples: 30,14,7,3,1,0. Leave empty for no reminders."</string>
+    <string name="ui_enable_notification_permission" formatted="false">"Enable notification permission"</string>
+    <string name="ui_check_the_dates" formatted="false">"Check the dates"</string>
+    <string name="ui_save_anyway" formatted="false">"Save anyway"</string>
+    <string name="ui_review" formatted="false">"Review"</string>
+    <string name="ui_barcode_recognized" formatted="false">"Barcode recognized"</string>
+    <string name="ui_expiry_must_be_entered_separately" formatted="false">"Expiry must be entered separately."</string>
+    <string name="ui_use_barcode" formatted="false">"Use barcode"</string>
+    <string name="ui_confirm_a_printed_date" formatted="false">"Confirm a printed date"</string>
+    <string name="ui_no_supported_dates_found_use_the_manual_picker" formatted="false">"No supported dates found. Use the manual picker."</string>
+    <string name="ui_close" formatted="false">"Close"</string>
+    <string name="ui_jump_to_today" formatted="false">"Jump to today"</string>
+    <string name="ui_item_unavailable" formatted="false">"Item unavailable"</string>
+    <string name="ui_back" formatted="false">"Back"</string>
+    <string name="ui_delete_this_item" formatted="false">"Delete this item?"</string>
+    <string name="ui_this_removes_the_item_and_cancels_its_reminders" formatted="false">"This removes the item and cancels its reminders."</string>
+    <string name="ui_delete" formatted="false">"Delete"</string>
+    <string name="ui_add_item" formatted="false">"Add Item"</string>
+    <string name="ui_scan_barcode_2" formatted="false">"Scan Barcode"</string>
+    <string name="ui_calendar" formatted="false">"Calendar"</string>
+    <string name="ui_expired" formatted="false">"Expired"</string>
+    <string name="ui_add_first_item" formatted="false">"Add First Item"</string>
+    <string name="ui_expiring_soon" formatted="false">"Expiring soon"</string>
+    <string name="ui_enable_reminders" formatted="false">"Enable reminders"</string>
+    <string name="ui_android_notification_settings" formatted="false">"Android notification settings"</string>
+    <string name="ui_global_warning_window_days" formatted="false">"Global warning window (days)"</string>
+    <string name="ui_default_reminder_offsets" formatted="false">"Default reminder offsets"</string>
+    <string name="ui_used_for_newly_added_items_0_means_expiry_day" formatted="false">"Used for newly added items. 0 means expiry day."</string>
+    <string name="ui_save_reminder_defaults" formatted="false">"Save reminder defaults"</string>
+    <string name="ui_categories" formatted="false">"Categories"</string>
+    <string name="ui_new_category" formatted="false">"New category"</string>
+    <string name="ui_add_category" formatted="false">"Add category"</string>
+    <string name="ui_household_profiles" formatted="false">"Household profiles"</string>
+    <string name="ui_new_profile" formatted="false">"New profile"</string>
+    <string name="ui_add_profile" formatted="false">"Add profile"</string>
+    <string name="ui_backup_restore" formatted="false">"Backup &amp; restore"</string>
+    <string name="ui_export_backup_zip" formatted="false">"Export backup ZIP"</string>
+    <string name="ui_restore_backup_zip" formatted="false">"Restore backup ZIP"</string>
+    <string name="ui_export_csv" formatted="false">"Export CSV"</string>
+    <string name="ui_import_csv" formatted="false">"Import CSV"</string>
+    <string name="ui_notification_history" formatted="false">"Notification history"</string>
+    <string name="ui_no_reminders_delivered_yet" formatted="false">"No reminders delivered yet."</string>
+    <string name="ui_privacy_policy" formatted="false">"Privacy policy"</string>
+    <string name="ui_about_expiry_radar" formatted="false">"About Expiry Radar"</string>
+    <string name="ui_reset_all_data" formatted="false">"Reset All Data"</string>
+    <string name="ui_delete_all_local_data" formatted="false">"Delete all local data?"</string>
+    <string name="ui_delete_everything" formatted="false">"Delete everything"</string>
+    <string name="ui_import" formatted="false">"Import"</string>
+    <string name="ui_search_name_barcode_or_notes" formatted="false">"Search name, barcode or notes"</string>
+    <string name="ui_edit" formatted="false">"Edit"</string>
+    <string name="ui_duplicate" formatted="false">"Duplicate"</string>
+    <string name="ui_mark_used" formatted="false">"Mark Used"</string>
+    <string name="ui_discarded" formatted="false">"Discarded"</string>
+    <string name="ui_archive" formatted="false">"Archive"</string>
+    <string name="ui_restore_to_active" formatted="false">"Restore to active"</string>
+</resources>

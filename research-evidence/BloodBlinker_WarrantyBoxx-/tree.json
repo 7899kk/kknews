@@ -1,0 +1,63 @@
+{
+  "sha": "6a1d11af4c211f2cc0286e999be69421be247282",
+  "url": "https://api.github.com/repos/BloodBlinker/WarrantyBoxx-/git/trees/6a1d11af4c211f2cc0286e999be69421be247282",
+  "tree": [
+    {
+      "path": "LICENSE",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f288702d2fa16d3cdf0035b15a9fcbc552cd88e7",
+      "size": 35149,
+      "url": "https://api.github.com/repos/BloodBlinker/WarrantyBoxx-/git/blobs/f288702d2fa16d3cdf0035b15a9fcbc552cd88e7"
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7d21cf6a4384f88ca0869ab35d52399be3ad0b0f",
+      "size": 9802,
+      "url": "https://api.github.com/repos/BloodBlinker/WarrantyBoxx-/git/blobs/7d21cf6a4384f88ca0869ab35d52399be3ad0b0f"
+    },
+    {
+      "path": "android/app/build.gradle.kts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bd827ededffdb710cc1720df8a9279de8f05d12a",
+      "size": 3303,
+      "url": "https://api.github.com/repos/BloodBlinker/WarrantyBoxx-/git/blobs/bd827ededffdb710cc1720df8a9279de8f05d12a"
+    },
+    {
+      "path": "lib/data/database/database.dart",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "96d8a9377c107d9284cf06d4b6814f708d1ea76c",
+      "size": 1906,
+      "url": "https://api.github.com/repos/BloodBlinker/WarrantyBoxx-/git/blobs/96d8a9377c107d9284cf06d4b6814f708d1ea76c"
+    },
+    {
+      "path": "lib/data/database/tables.dart",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "135c9ebe0514bbcca44d4068dc8f7d95ff567ea6",
+      "size": 3046,
+      "url": "https://api.github.com/repos/BloodBlinker/WarrantyBoxx-/git/blobs/135c9ebe0514bbcca44d4068dc8f7d95ff567ea6"
+    },
+    {
+      "path": "lib/domain/services/notification_service.dart",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9a89419b5a3b76d831f1ecdfbc778e17341cfa69",
+      "size": 6800,
+      "url": "https://api.github.com/repos/BloodBlinker/WarrantyBoxx-/git/blobs/9a89419b5a3b76d831f1ecdfbc778e17341cfa69"
+    },
+    {
+      "path": "pubspec.yaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2cc892b9515d5f8e9d96f832e643239aa6b46bf4",
+      "size": 1978,
+      "url": "https://api.github.com/repos/BloodBlinker/WarrantyBoxx-/git/blobs/2cc892b9515d5f8e9d96f832e643239aa6b46bf4"
+    }
+  ],
+  "truncated": false
+}

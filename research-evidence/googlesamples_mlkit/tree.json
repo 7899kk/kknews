@@ -1,0 +1,47 @@
+{
+  "sha": "f1047837fe1e02d58063bfc30b830fad23ffbc35",
+  "url": "https://api.github.com/repos/googlesamples/mlkit/git/trees/f1047837fe1e02d58063bfc30b830fad23ffbc35",
+  "tree": [
+    {
+      "path": "LICENSE",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7a4a3ea2424c09fbe48d455aed1eaa94d9124835",
+      "size": 11357,
+      "url": "https://api.github.com/repos/googlesamples/mlkit/git/blobs/7a4a3ea2424c09fbe48d455aed1eaa94d9124835"
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ef7ee5422ec2560556cec8213a76b40747dcb7d3",
+      "size": 282,
+      "url": "https://api.github.com/repos/googlesamples/mlkit/git/blobs/ef7ee5422ec2560556cec8213a76b40747dcb7d3"
+    },
+    {
+      "path": "android/vision-quickstart/app/build.gradle",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7aebe0904f981acb6c14598182519ba7fd3caa98",
+      "size": 6856,
+      "url": "https://api.github.com/repos/googlesamples/mlkit/git/blobs/7aebe0904f981acb6c14598182519ba7fd3caa98"
+    },
+    {
+      "path": "android/vision-quickstart/app/src/main/java/com/google/mlkit/vision/demo/java/textdetector/TextRecognitionProcessor.java",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "71bfce5c507d828bff874c927c0a51be3ba73d20",
+      "size": 4610,
+      "url": "https://api.github.com/repos/googlesamples/mlkit/git/blobs/71bfce5c507d828bff874c927c0a51be3ba73d20"
+    },
+    {
+      "path": "android/vision-quickstart/app/src/main/java/com/google/mlkit/vision/demo/kotlin/textdetector/TextRecognitionProcessor.kt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6e2a71d1a07d1a2638fcd3f8a507d8c192a50d33",
+      "size": 4286,
+      "url": "https://api.github.com/repos/googlesamples/mlkit/git/blobs/6e2a71d1a07d1a2638fcd3f8a507d8c192a50d33"
+    }
+  ],
+  "truncated": false
+}

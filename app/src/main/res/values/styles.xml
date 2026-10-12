@@ -1,0 +1,4 @@
+<resources>
+<style name="Theme.ExpiryRadar" parent="android:style/Theme.Material.Light.NoActionBar"><item name="android:fontFamily">sans</item><item name="android:windowLightStatusBar">true</item><item name="android:colorAccent">#006B50</item></style>
+<style name="Theme.ExpiryRadar.Splash" parent="Theme.SplashScreen"><item name="windowSplashScreenBackground">#F8F8F0</item><item name="windowSplashScreenAnimatedIcon">@drawable/radar</item><item name="postSplashScreenTheme">@style/Theme.ExpiryRadar</item></style>
+</resources>

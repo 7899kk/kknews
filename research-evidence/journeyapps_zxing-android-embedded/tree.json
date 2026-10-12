@@ -1,0 +1,39 @@
+{
+  "sha": "d09b7c76c3124fbfbd096a65d60b1997f37ff90f",
+  "url": "https://api.github.com/repos/journeyapps/zxing-android-embedded/git/trees/d09b7c76c3124fbfbd096a65d60b1997f37ff90f",
+  "tree": [
+    {
+      "path": "COPYING",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64",
+      "size": 11357,
+      "url": "https://api.github.com/repos/journeyapps/zxing-android-embedded/git/blobs/261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64"
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2f965a167626d7faab86aa3edf65b114e45f2003",
+      "size": 7985,
+      "url": "https://api.github.com/repos/journeyapps/zxing-android-embedded/git/blobs/2f965a167626d7faab86aa3edf65b114e45f2003"
+    },
+    {
+      "path": "zxing-android-embedded/build.gradle",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b54e03801c2fe7d339db3733b615d174c1cf935d",
+      "size": 5332,
+      "url": "https://api.github.com/repos/journeyapps/zxing-android-embedded/git/blobs/b54e03801c2fe7d339db3733b615d174c1cf935d"
+    },
+    {
+      "path": "zxing-android-embedded/src/com/journeyapps/barcodescanner/ScanContract.java",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "10e46e6fd590cbb81b3d144d71bd6c4aa1c285b4",
+      "size": 672,
+      "url": "https://api.github.com/repos/journeyapps/zxing-android-embedded/git/blobs/10e46e6fd590cbb81b3d144d71bd6c4aa1c285b4"
+    }
+  ],
+  "truncated": false
+}

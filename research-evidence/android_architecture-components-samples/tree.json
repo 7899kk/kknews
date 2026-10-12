@@ -1,0 +1,47 @@
+{
+  "sha": "e849ce3004ccd1132a121cf513bbcb7996d95c30",
+  "url": "https://api.github.com/repos/android/architecture-components-samples/git/trees/e849ce3004ccd1132a121cf513bbcb7996d95c30",
+  "tree": [
+    {
+      "path": "BasicRxJavaSampleKotlin/app/src/main/java/com/example/android/observability/persistence/UsersDatabase.kt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5368cd3b04155cbc76ff1957ac8ad8661797b387",
+      "size": 1508,
+      "url": "https://api.github.com/repos/android/architecture-components-samples/git/blobs/5368cd3b04155cbc76ff1957ac8ad8661797b387"
+    },
+    {
+      "path": "GithubBrowserSample/app/src/main/java/com/android/example/github/repository/RepoRepository.kt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2a73873acaa85ab5be6bf8cce11546e1196e2422",
+      "size": 6417,
+      "url": "https://api.github.com/repos/android/architecture-components-samples/git/blobs/2a73873acaa85ab5be6bf8cce11546e1196e2422"
+    },
+    {
+      "path": "LICENSE",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1af981f55f0be23674d5cb4b2826bf9e3b933b31",
+      "size": 11361,
+      "url": "https://api.github.com/repos/android/architecture-components-samples/git/blobs/1af981f55f0be23674d5cb4b2826bf9e3b933b31"
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a58265c6740bc0e8833051ef16a803935ab2f599",
+      "size": 4910,
+      "url": "https://api.github.com/repos/android/architecture-components-samples/git/blobs/a58265c6740bc0e8833051ef16a803935ab2f599"
+    },
+    {
+      "path": "WorkManagerMultiprocessSample/app/src/main/java/com/example/background/multiprocess/ExampleRemoteCoroutineWorker.kt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8a2863bbf9c2d07b647ec2789481af65e9c27dd3",
+      "size": 1515,
+      "url": "https://api.github.com/repos/android/architecture-components-samples/git/blobs/8a2863bbf9c2d07b647ec2789481af65e9c27dd3"
+    }
+  ],
+  "truncated": false
+}

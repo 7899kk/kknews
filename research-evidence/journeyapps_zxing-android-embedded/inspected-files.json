@@ -1,0 +1,22 @@
+[
+  {
+    "path": "zxing-android-embedded/src/com/journeyapps/barcodescanner/ScanContract.java",
+    "sha256": "2c04582de70fc70acf36ff67ba3e649455c32a5016c40c80a23e391c4c53f6a5",
+    "bytes": 672
+  },
+  {
+    "path": "README.md",
+    "sha256": "8c6318a23a51a85944db347a612f059069507c306d8f741dcef4fd400c9231f6",
+    "bytes": 7985
+  },
+  {
+    "path": "COPYING",
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+    "bytes": 11357
+  },
+  {
+    "path": "zxing-android-embedded/build.gradle",
+    "sha256": "8af9677e7af7bcf57f0f878bd80c87b294bf43f733c21060b8f1b615e25cd1f9",
+    "bytes": 5332
+  }
+]

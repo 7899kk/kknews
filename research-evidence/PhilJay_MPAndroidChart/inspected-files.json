@@ -1,0 +1,32 @@
+[
+  {
+    "path": "README.md",
+    "sha256": "d6fbee2679983ea8f668f9f4010c3785d2fe9b017a5d775d195aec7aea57faab",
+    "bytes": 6705
+  },
+  {
+    "path": "gradle/libs.versions.toml",
+    "sha256": "aeb036df8c59e2a462302216aaf5664881954ed175f5a011f773b2b8efef4232",
+    "bytes": 2235
+  },
+  {
+    "path": "MPChartLib/src/main/kotlin/com/github/mikephil/charting/charts/PieChart.kt",
+    "sha256": "f3b8fc874ec6a1ed48031a7dfb101dc97dc4614f61f1f0faa6448191e27cdf85",
+    "bytes": 14358
+  },
+  {
+    "path": "MPChartCompose/build.gradle.kts",
+    "sha256": "d4cefa61923c18867598faffd2fcfab18a14e3744c03e2f673af5ec4733054fc",
+    "bytes": 2974
+  },
+  {
+    "path": "MPChartLib/src/main/kotlin/com/github/mikephil/charting/renderer/BarChartRenderer.kt",
+    "sha256": "d272e1421a7bed4e8074caf65cc3bb87564787abc33b9d103cc2426bebe17e05",
+    "bytes": 22866
+  },
+  {
+    "path": "LICENSE",
+    "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+    "bytes": 11358
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "path": "core/database/src/main/kotlin/com/google/samples/apps/nowinandroid/core/database/NiaDatabase.kt",
+    "sha256": "87d09649917eb37244e1bda18b2e18e58bc002cdd8598b49c2b9b2ac85c653d9",
+    "bytes": 3146
+  },
+  {
+    "path": "README.md",
+    "sha256": "d6eeade4c74e4cb521987ac2fe88b43bf90dd16610c27019b337ff6e04bd5536",
+    "bytes": 10998
+  },
+  {
+    "path": "gradle/libs.versions.toml",
+    "sha256": "3a5a238f940f7a54119e00daca931c8c15af8cc1fa1e530f1c4ccbfe0bc51695",
+    "bytes": 16522
+  },
+  {
+    "path": "sync/work/src/main/kotlin/com/google/samples/apps/nowinandroid/sync/workers/DelegatingWorker.kt",
+    "sha256": "bf202152b1dad1f401254e8d0bafb51bda66a9740deadfb684ab96aabf610556",
+    "bytes": 2828
+  },
+  {
+    "path": "app-nia-catalog/build.gradle.kts",
+    "sha256": "c08dc8ba543d5cdd08353b661eeafaecc10364acf6b76e6aa703369fe46f56d2",
+    "bytes": 2752
+  },
+  {
+    "path": "LICENSE",
+    "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+    "bytes": 11358
+  },
+  {
+    "path": "core/data-test/src/main/kotlin/com/google/samples/apps/nowinandroid/core/data/test/repository/FakeNewsRepository.kt",
+    "sha256": "08d43d205aa705ba3fab883655b50ed44d1fdb06dc9eae7d9939a5892e2e78b3",
+    "bytes": 3121
+  },
+  {
+    "path": "core/designsystem/src/main/kotlin/com/google/samples/apps/nowinandroid/core/designsystem/theme/Theme.kt",
+    "sha256": "38332b182f3a92d6164fa31d38137f5fdfcd25440a3fbb66ba83ed0ecaeed922",
+    "bytes": 8092
+  }
+]

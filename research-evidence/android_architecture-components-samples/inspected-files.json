@@ -1,0 +1,27 @@
+[
+  {
+    "path": "README.md",
+    "sha256": "18995a54c3bc6da5e08fdb0dd4607487ffd43106d8fab940085f7585153614be",
+    "bytes": 4910
+  },
+  {
+    "path": "GithubBrowserSample/app/src/main/java/com/android/example/github/repository/RepoRepository.kt",
+    "sha256": "d62b1131f45fa502e56e4e7f317ac95d44a47b4c7138c8b06ec03632b1fe4526",
+    "bytes": 6417
+  },
+  {
+    "path": "WorkManagerMultiprocessSample/app/src/main/java/com/example/background/multiprocess/ExampleRemoteCoroutineWorker.kt",
+    "sha256": "8c334e43f35fe00a7cc6a7580715bd9d86d865ab1cd1dc824e87117a35f6e581",
+    "bytes": 1515
+  },
+  {
+    "path": "BasicRxJavaSampleKotlin/app/src/main/java/com/example/android/observability/persistence/UsersDatabase.kt",
+    "sha256": "c1569b136d13ccf17ea525e21c9329f16aab14c579f6b4a4e4677465b078e137",
+    "bytes": 1508
+  },
+  {
+    "path": "LICENSE",
+    "sha256": "8515133bdb16915542581da1bce6e1344883d811b05f3bd159152e20b8825259",
+    "bytes": 11361
+  }
+]

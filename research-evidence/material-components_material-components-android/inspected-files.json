@@ -1,0 +1,22 @@
+[
+  {
+    "path": "README.md",
+    "sha256": "d0232891135d34968e45484992acacb10c0d4981bf63789eaa19de2b65db25ff",
+    "bytes": 3447
+  },
+  {
+    "path": "gradle/libs.versions.toml",
+    "sha256": "c83c1376a1ab4efbd5548b7126a77a8a1c2783211bb63925b5af1b658c09131e",
+    "bytes": 8200
+  },
+  {
+    "path": "lib/java/com/google/android/material/datepicker/MaterialDatePicker.java",
+    "sha256": "065f40646b7074a086fec27d40ed6ab666dcb8a524ec3e4006cb9d78b373847a",
+    "bytes": 39639
+  },
+  {
+    "path": "LICENSE",
+    "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+    "bytes": 11358
+  }
+]

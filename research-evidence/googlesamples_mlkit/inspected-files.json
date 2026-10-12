@@ -1,0 +1,27 @@
+[
+  {
+    "path": "android/vision-quickstart/app/build.gradle",
+    "sha256": "0fdcddbaf49feff6723512fa821aacf0db306a0631650817ed95e9915b28a8b6",
+    "bytes": 6856
+  },
+  {
+    "path": "README.md",
+    "sha256": "deba99281669acee3b43db5af12c6e1db15e0272760d5a1510c7a634c779f7a4",
+    "bytes": 282
+  },
+  {
+    "path": "android/vision-quickstart/app/src/main/java/com/google/mlkit/vision/demo/kotlin/textdetector/TextRecognitionProcessor.kt",
+    "sha256": "d3bbefe3d7b6ef16127737553383ea6a5dfdca9ad00b9c5fb97db64642eac622",
+    "bytes": 4286
+  },
+  {
+    "path": "LICENSE",
+    "sha256": "58d1e17ffe5109a7ae296caafcadfdbe6a7d176f0bc4ab01e12a689b0499d8bd",
+    "bytes": 11357
+  },
+  {
+    "path": "android/vision-quickstart/app/src/main/java/com/google/mlkit/vision/demo/java/textdetector/TextRecognitionProcessor.java",
+    "sha256": "20f8437e86c7c9dfc2a7f98180042fc0bf76cd234f78d18aca6c63f30ecd71df",
+    "bytes": 4610
+  }
+]
