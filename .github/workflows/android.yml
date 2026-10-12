@@ -38,12 +38,9 @@ jobs:
           ram-size: 2048M
           script: |
             ./gradlew connectedDebugAndroidTest --no-daemon --max-workers=2
-            mkdir -p previews/android-9
-            adb pull /sdcard/Android/data/com.karthikkilari.expiryradar/files/previews previews/android-9
-            adb shell am start -n com.karthikkilari.expiryradar/.MainActivity
-            sleep 3
-            adb exec-out screencap -p > previews/android-9/dashboard.png
-            adb logcat -d -s AndroidRuntime:E > previews/android-9/crash-log.txt
+            adb install -r app/build/outputs/apk/debug/app-debug.apk
+            adb shell pm clear com.karthikkilari.expiryradar
+            python3 scripts/android_preview.py previews/android-9
       - name: Preserve Android 9 test evidence
         if: always()
         run: mkdir -p previews/reports-android-9 && cp -r app/build/reports/androidTests previews/reports-android-9/ 2>/dev/null || true
@@ -57,12 +54,9 @@ jobs:
           ram-size: 2048M
           script: |
             ./gradlew connectedDebugAndroidTest --rerun-tasks --no-daemon --max-workers=2
-            mkdir -p previews/android-16
-            adb pull /sdcard/Android/data/com.karthikkilari.expiryradar/files/previews previews/android-16
-            adb shell am start -n com.karthikkilari.expiryradar/.MainActivity
-            sleep 3
-            adb exec-out screencap -p > previews/android-16/dashboard.png
-            adb logcat -d -s AndroidRuntime:E > previews/android-16/crash-log.txt
+            adb install -r app/build/outputs/apk/debug/app-debug.apk
+            adb shell pm clear com.karthikkilari.expiryradar
+            python3 scripts/android_preview.py previews/android-16
       - uses: actions/upload-artifact@v4
         if: always()
         with:
